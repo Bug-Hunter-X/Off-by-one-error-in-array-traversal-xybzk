@@ -1,0 +1,2 @@
+# Off-by-one error in array traversal
+This repository contains a Java program demonstrating a common off-by-one error when traversing arrays.  The code attempts to access an element beyond the bounds of the array, resulting in an `ArrayIndexOutOfBoundsException`. The solution demonstrates the correct way to iterate through an array.
